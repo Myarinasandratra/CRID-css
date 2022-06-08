@@ -1,0 +1,96 @@
+body {
+    background-image: url('img3.wallspic.com-texte-auteur-livre-livre_audio-apprentissage-5472x3648.jpg');
+    padding: 10px;
+}
+
+.cardjs {
+    background-color: #ff8000;
+    border: 1px solid #ff8000;
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.cardpython {
+    background-color: #8000ff;
+    border: 1px solid #8000ff;
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.cardjava {
+    background-color: #ff0066;
+    border: 1px solid #ff0066;
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.cardphp {
+    background-color: MediumSeaGreen;
+    border: 1px solid MediumSeaGreen;
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+
+
+
+.cardcp {
+    background-color: DodgerBlue;
+    border: 1px solid DodgerBlue;
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.cardcsharp {
+    background-color: #ff0000;
+    border: 1px solid #ff0000;
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.cardr {
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.cardgo {
+    background-color: #40ff00;
+    border: 1px solid #40ff00;
+    padding: 6px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.grid {
+
+    display: grid;
+    grid-gap: 50px 90px;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px;
+    grid-template-rows: repeat(5, 100px);
+}
